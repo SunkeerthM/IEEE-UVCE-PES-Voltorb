@@ -1,0 +1,18 @@
+------------------------------------------------------------------------------------------xxx---------------------------------------------------------------------------------------
+
+
+Miss Payal is a project manager at CISCO heading the networking solutions department. She will be heading to China for a meeting with the shareholders. Payal usually hosts clients at her place and since she isn't gonna be home for quite some time, and as she wouldn't be able to use her phone until she returns would like to know how many clients have visited her during this time.  
+
+So, Payal plans to buy a doorbell that would inform her if someone had come to her home as soon as she returns. You being the manufacturer, have to design a doorbell that would meet Ms Payal's needs.
+
+Rules:
+
+1. Don't use a readymade doorbell (build it from scratch)
+2. The design should work with a 230V power supply.
+3. Use of microcontroller is prohibited.
+4. The maximum number of people that can be counted is 10.
+5. Design of the circuit with the circuit diagram need to be presented.
+
+
+
+------------------------------------------------------------------------------------------xxx---------------------------------------------------------------------------------------

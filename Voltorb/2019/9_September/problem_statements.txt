@@ -1,0 +1,74 @@
+------------------------------------------------------------------------------------------xxx---------------------------------------------------------------------------------------
+
+
+Problem Statement 1:
+
+IEEE UVCE is organising a running race competition, it has only 2 competitors from the RGB family of lights.
+At one end we have the RED led measuring 700nm and on the other side, we have the GREEN led measuring in at competitive 550nm.
+ 
+This race will decide the new king to the RGB Empire, but internal forces have conspired to rig the race to end in a tie so that they can continue looting the kingdom as they've done for all these years. 
+
+The minister who kept track of the lapses announces the result to the whole kingdom stating it's a "T.I.E." after 10 lapses and a clear Tie between both.
+
+Rules:
+1. Represent the race using a 2xN matrix of LED lights. (N>=5)
+2. Choose a set of differently coloured LED's to represent the competitors (preferably red and green).
+3. The race must end in a TIE i.e. the last led must glow simultaneously and at no point must one led be ahead or behind its competitor.
+4. Once the led's reach the end, it must light up a matrix of led's which spell out T.I.E and remain turned on until the circuit is switched OFF.
+5. Usage of micro-controllers and ready-made modules aren't allowed.
+
+P.s You're free to add another row or two of led’s but must not violate Rule no.3  
+
+
+Output:
+The following circuit and output must be rigged up on a breadboard or soldered onto a perfect board.
+
+
+------------------------------------------------------------------------------------------xxx---------------------------------------------------------------------------------------
+
+
+Problem statement 2:
+
+Build a Working model to detect obstacles without the usage of application specific sensors in the market and ring a buzzer every time an obstacle is detected.
+
+Rules:
+
+1. Usage of micro-controllers and ready-made modules aren't allowed.
+2. Do not use an existing sensor.
+3. Circuit diagram of the working model should be submitted.
+
+Output:
+
+A working model should be presented on a breadboard.
+
+
+
+------------------------------------------------------------------------------------------xxx---------------------------------------------------------------------------------------
+
+
+
+Problem Statement 3
+
+Paul, a drug dealer from South Africa wants to transport his illegal goods from the American coast to South Africa through a brig via the Cape of Good Hope. He risks getting caught as the Interpol has been on his trail for quite some time. He uses code language to communicate with the pirate.
+ When he has finished loading the goods on the ship and wants the pirate to depart from the coast, he sends a coded message which when cracked reads "ALL GOOD TO GO" through a lamp which is their mode of communication. 
+
+Rig a circuit to help Paul communicate this message to the pirate through a lamp.
+
+Rules:
+
+1. The time duration between any 2 words of the message should be 4 seconds(+-10%).
+2. The time duration between consecutive letters of a word should be 2 second(+-10%).
+3. Usage of a microcontroller or ready-made modules is allowed.
+4. A light source of any wavelength can be used to communicate.
+5. You are free to use any code of your choice, provided it is universal and understood.
+
+Output:
+
+You must rig up the circuit on a breadboard or perfboard and show the message transfer without breaking any of the  above rules.
+
+
+
+
+
+
+------------------------------------------------------------------------------------------xxx---------------------------------------------------------------------------------------

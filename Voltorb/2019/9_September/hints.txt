@@ -1,0 +1,18 @@
+
+------------------------------------------------------------------------------------------xxx---------------------------------------------------------------------------------------
+
+
+Hints for First Month Voltorb Challenge: 
+
+Problem Statement 1:
+The first part of the problem can be solved using a decade counter. 
+
+Problem Statement 2:
+Use a Infrared Photodiode for sensing.
+
+Problem Statement 3:
+Use Morse Code.
+
+
+
+------------------------------------------------------------------------------------------xxx---------------------------------------------------------------------------------------
